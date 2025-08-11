@@ -217,13 +217,19 @@ employment_by_rate = sorted(national_employment, key=lambda x: x['employment_rat
 
 <img width="634" height="358" src="https://github.com/user-attachments/assets/c27197cf-1955-4b1f-a093-b732af8f344f" />
 
+
+
 **Employment by Population Group**
 
 <img width="641" height="362" src="https://github.com/user-attachments/assets/72afa4fd-c17b-4012-88f8-fd551b9d0afd" />
 
+
+
 **Gender Gap Analysis**
 
 <img width="646" height="360" src="https://github.com/user-attachments/assets/9f5626d4-c7d7-4565-aca0-ecf518340989" />
+
+
 
 **Geographic Patterns & Economic Belts Analysis**
 
