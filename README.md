@@ -211,15 +211,23 @@ employment_by_rate = sorted(national_employment, key=lambda x: x['employment_rat
 
 **Power BI Dashboard** – [View Dashboard](https://app.powerbi.com/links/5CziXLMPje?ctid=97e0f4cf-7980-44e9-81e2-2472e6bfa4f4&pbi_source=linkShare)
 
-**Screenshots:**
 
-**Provincial Unemployment Disparities** <img width="634" height="358" src="https://github.com/user-attachments/assets/c27197cf-1955-4b1f-a093-b732af8f344f" />
 
-**Employment by Population Group** <img width="641" height="362" src="https://github.com/user-attachments/assets/72afa4fd-c17b-4012-88f8-fd551b9d0afd" />
+**Provincial Unemployment Disparities**
 
-**Gender Gap Analysis** <img width="646" height="360" src="https://github.com/user-attachments/assets/9f5626d4-c7d7-4565-aca0-ecf518340989" />
+<img width="634" height="358" src="https://github.com/user-attachments/assets/c27197cf-1955-4b1f-a093-b732af8f344f" />
 
-**Geographic Patterns & Economic Belts Analysis** <img width="637" height="357" src="https://github.com/user-attachments/assets/5bc4cdf9-c374-4984-aa33-1ac7287ca464" />
+**Employment by Population Group**
+
+<img width="641" height="362" src="https://github.com/user-attachments/assets/72afa4fd-c17b-4012-88f8-fd551b9d0afd" />
+
+**Gender Gap Analysis**
+
+<img width="646" height="360" src="https://github.com/user-attachments/assets/9f5626d4-c7d7-4565-aca0-ecf518340989" />
+
+**Geographic Patterns & Economic Belts Analysis**
+
+<img width="637" height="357" src="https://github.com/user-attachments/assets/5bc4cdf9-c374-4984-aa33-1ac7287ca464" />
 
 ---
 
